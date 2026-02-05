@@ -29,3 +29,21 @@ Today I made a Diabeties Prediction model using Pima Indians Diabetes dataset, I
 <img width="814" height="751" alt="image" src="https://github.com/user-attachments/assets/3488a7d8-27c4-47a6-ae90-71f885fdcedf" />
 <img width="699" height="514" alt="image" src="https://github.com/user-attachments/assets/1b70fc41-8453-43a9-a39a-1b978b17b7e5" />
 <img width="747" height="503" alt="image" src="https://github.com/user-attachments/assets/2b6979e3-98e7-4875-b44a-bc9689bba313" />
+
+## Smart EDA Analyzer
+
+This repository now includes a Streamlit app that provides a smart EDA workflow and model recommendations.
+
+### How to run
+
+```bash
+pip install -r requirements.txt
+streamlit run eda_app.py
+```
+
+### What it does
+
+- Upload CSV, Excel, or Parquet files.
+- Review data overview, missing values, distributions, and correlation heatmap.
+- Explore trend plots for numeric columns.
+- Get model recommendations based on the target column.
