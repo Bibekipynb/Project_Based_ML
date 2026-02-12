@@ -1,4 +1,4 @@
-# Here I will be updating about the projects daily!
+# Here I will be updating about the progress daily!
 
 ## Day 1
 
