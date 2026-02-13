@@ -7,3 +7,9 @@ Today I completed chapter 1 of Hands-On Machine Learning with Scikit-Learn and P
 <img width="600" height="789" alt="image" src="https://github.com/user-attachments/assets/19eea99d-a368-43f3-8ab2-bf2f35a1d0a2" />
 
 And I have start building a project side by side, an EDA tool, which provides basic overview of the data, plots, suggestions of the data etc. I will keep updating as I update the features. As of today I have setup everything I need and I will be updating here from tommorow. Also, I will start chapter 2 from the ML Book.
+
+## Day 2
+
+Today I started chapter 2 of the book and Read 7 Pages, just the basic overview of the chapter and some introduction to models, evaluation metrices and so on.
+
+<img width="917" height="605" alt="image" src="https://github.com/user-attachments/assets/eb1d1dd9-8ebc-4f72-b866-0d70bc7032f5" />
